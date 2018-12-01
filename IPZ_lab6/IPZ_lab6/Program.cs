@@ -10,6 +10,7 @@ namespace IPZ_lab6
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hello world!");
         }
     }
 }

@@ -1,0 +1,7 @@
+C:\IPZlab6\repo2\IPZ_lab6\IPZ_lab6\bin\Debug\IPZ_lab6.exe.config
+C:\IPZlab6\repo2\IPZ_lab6\IPZ_lab6\bin\Debug\IPZ_lab6.exe
+C:\IPZlab6\repo2\IPZ_lab6\IPZ_lab6\bin\Debug\IPZ_lab6.pdb
+C:\IPZlab6\repo2\IPZ_lab6\IPZ_lab6\obj\Debug\IPZ_lab6.csprojAssemblyReference.cache
+C:\IPZlab6\repo2\IPZ_lab6\IPZ_lab6\obj\Debug\IPZ_lab6.csproj.CoreCompileInputs.cache
+C:\IPZlab6\repo2\IPZ_lab6\IPZ_lab6\obj\Debug\IPZ_lab6.exe
+C:\IPZlab6\repo2\IPZ_lab6\IPZ_lab6\obj\Debug\IPZ_lab6.pdb
